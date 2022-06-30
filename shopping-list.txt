@@ -4,3 +4,5 @@ apa
 lapte
 mere
 pere
+banane
+oua
